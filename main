@@ -18,7 +18,7 @@ def download(update, context):
 
 def main():
     # Set up the Telegram API
-    token = "YOUR_BOT_TOKEN"
+    token = "6175236410:AAFVNb_1IpLN9Nc6ZDkoYn0TNC-2nhTBrSg"
     updater = Updater(token, use_context=True)
     dp = updater.dispatcher
 
